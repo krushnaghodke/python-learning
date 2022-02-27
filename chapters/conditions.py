@@ -13,13 +13,16 @@ def validate_and_execute():
             calculated_value = days_to_unit(user_input_number)
             print(calculated_value)
         elif user_input_number == 0:
-            return "you entered 0 value..."
+            print("you entered 0 value...")
         else:
-            return "Please enter valid integer value...."
+            print("Please enter valid integer value....")
     except ValueError:
-        return "Your input is not a number..."
+        print("Your input is not a number...")
 
 
-user_input = input("Hey user, enter no of days i will convert it to hours\n")
-validate = validate_and_execute()
-print(validate)
+user_input = ""
+
+
+while user_input != 'Exit':
+    user_input = input("Hey user, enter no of days i will convert it to hours\n")
+    validate_and_execute()

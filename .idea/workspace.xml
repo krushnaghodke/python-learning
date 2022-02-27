@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f5b5776-c235-48e9-88bb-d4f27b424c99" name="Changes" comment="user input changes">
-      <change afterPath="$PROJECT_DIR$/chapters/conditions.py" afterDir="false" />
+    <list default="true" id="2f5b5776-c235-48e9-88bb-d4f27b424c99" name="Changes" comment="condition changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapters/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/conditions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645931800419</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="condition changes">
+      <created>1645934921523</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645934921523</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +209,7 @@
     <MESSAGE value="string and number changes" />
     <MESSAGE value="function changes" />
     <MESSAGE value="user input changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="user input changes" />
+    <MESSAGE value="condition changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="condition changes" />
   </component>
 </project>
